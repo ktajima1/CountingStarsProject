@@ -44,6 +44,7 @@ public class Main {
         //Convert arraylist to charArray and return charArray
         return toCharArray(row);
     }
+
 //    static char[] readRow() {
 //        try {
 //            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
